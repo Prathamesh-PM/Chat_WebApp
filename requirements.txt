@@ -1,0 +1,23 @@
+# 📋 Backend Requirements
+
+---
+
+## 🧠 Backend: Spring Boot (Java 24, Maven)
+
+### Key Dependencies (from `pom.xml`)
+- spring-boot-starter-web
+- spring-boot-starter-data-mongodb
+- spring-boot-starter-websocket
+- spring-boot-devtools
+- spring-boot-starter-test
+- lombok
+
+### Java Version
+- Java 24
+
+### Build Tool
+- Apache Maven 3+
+
+### Run with:
+```bash
+./mvnw spring-boot:run
